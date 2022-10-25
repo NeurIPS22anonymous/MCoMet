@@ -74,6 +74,6 @@ We provided model results here.
 | [UNITER](https://github.com/ChenRocks/UNITER) (L)                                             | -                  | 60.6 ± 2.2        | -            |
 | [Merlot Reserve](https://github.com/rowanz/merlot_reserve) (B)                                | 66.5 ± 1.4     | 64.0 ± 0.9        | 2.6          |
 | [Merlot Reserve](https://github.com/rowanz/merlot_reserve) (L)                                | 70.1 ± 1.0     | 68.4 ± 0.7        | 1.8          |
-| [MCoMeT(C={1}](https://github.com/anonymous)                                                  | 75.9 ± 0.6     | 71.6 ± 0.1        | 4.3          |
-| [MCoMeT(C={2,3}](https://github.com/anonymous)                                                | 79.7 ± 1.1     | 75.2 ± 0.9        | 4.5          |
+| [MCoMeT(C={1})](https://github.com/anonymous)                                                  | 75.9 ± 0.6     | 71.6 ± 0.1        | 4.3          |
+| [MCoMeT(C={2,3})](https://github.com/anonymous)                                                | 79.7 ± 1.1     | 75.2 ± 0.9        | 4.5          |
 | Human                                                                                         | 96.3 ± 2.1     | 90.5 ± 3.1        | 5.9          |
